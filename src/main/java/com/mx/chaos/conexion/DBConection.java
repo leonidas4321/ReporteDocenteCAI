@@ -9,7 +9,7 @@ public class DBConection {
 	
 	private Connection con = null;
 
-    private final String url = "jdbc:sqlite:C:\\Program Files (x86)\\ZKTimeNet\\ZKTimeNet.db";
+    private final String url = "jdbc:sqlite:C:\\ZK3.0\\ZKTime.Net\\ZKTimeNet.db";
 
     public Connection getConexion() {
 
